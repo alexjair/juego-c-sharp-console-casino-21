@@ -1,0 +1,15 @@
+D:\work_NET\platzi\appJuegoCasino\appJuegoCasino\bin\Debug\net6.0\appJuegoCasino.exe
+D:\work_NET\platzi\appJuegoCasino\appJuegoCasino\bin\Debug\net6.0\appJuegoCasino.deps.json
+D:\work_NET\platzi\appJuegoCasino\appJuegoCasino\bin\Debug\net6.0\appJuegoCasino.runtimeconfig.json
+D:\work_NET\platzi\appJuegoCasino\appJuegoCasino\bin\Debug\net6.0\appJuegoCasino.dll
+D:\work_NET\platzi\appJuegoCasino\appJuegoCasino\bin\Debug\net6.0\appJuegoCasino.pdb
+D:\work_NET\platzi\appJuegoCasino\appJuegoCasino\obj\Debug\net6.0\appJuegoCasino.csproj.AssemblyReference.cache
+D:\work_NET\platzi\appJuegoCasino\appJuegoCasino\obj\Debug\net6.0\appJuegoCasino.GeneratedMSBuildEditorConfig.editorconfig
+D:\work_NET\platzi\appJuegoCasino\appJuegoCasino\obj\Debug\net6.0\appJuegoCasino.AssemblyInfoInputs.cache
+D:\work_NET\platzi\appJuegoCasino\appJuegoCasino\obj\Debug\net6.0\appJuegoCasino.AssemblyInfo.cs
+D:\work_NET\platzi\appJuegoCasino\appJuegoCasino\obj\Debug\net6.0\appJuegoCasino.csproj.CoreCompileInputs.cache
+D:\work_NET\platzi\appJuegoCasino\appJuegoCasino\obj\Debug\net6.0\appJuegoCasino.dll
+D:\work_NET\platzi\appJuegoCasino\appJuegoCasino\obj\Debug\net6.0\refint\appJuegoCasino.dll
+D:\work_NET\platzi\appJuegoCasino\appJuegoCasino\obj\Debug\net6.0\appJuegoCasino.pdb
+D:\work_NET\platzi\appJuegoCasino\appJuegoCasino\obj\Debug\net6.0\appJuegoCasino.genruntimeconfig.cache
+D:\work_NET\platzi\appJuegoCasino\appJuegoCasino\obj\Debug\net6.0\ref\appJuegoCasino.dll
